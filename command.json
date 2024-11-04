@@ -1,0 +1,7 @@
+{"auto-run-command.rules":[
+    {
+      "condition": "hasFile: bot.js",
+      "command": "wallaby.start",
+      "message": "Running wallaby"
+    }
+  ]}
